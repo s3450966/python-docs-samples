@@ -14,6 +14,10 @@
 
 assign_issues_by:
 - labels:
+  - 'api: people-and-planet-ai'
+  to:
+  - davidcavazos
+- labels:
   - 'api: appengine'
   - 'api: cloudbuild'
   - 'api: cloudscheduler'
@@ -184,6 +188,10 @@ assign_issues_by:
   - GoogleCloudPlatform/googleapis-dlp
 
 assign_prs_by:
+- labels:
+  - 'api: people-and-planet-ai'
+  to:
+  - davidcavazos
 - labels:
   - 'api: auth'
   to:
